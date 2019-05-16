@@ -1,5 +1,5 @@
 @Biliana: 
-I just wrote the basic code for the React and now I will work on the code to make data driven the components for the user interaction custom data. 
+I just wrote the React basic code and now I will work on the code to make data driven the components for the user interaction custom data. 
 
 I think to do it I have just to add a method that allows the user to add note in the text editor, edit and delete them. 
 
